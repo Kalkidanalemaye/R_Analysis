@@ -14,3 +14,7 @@ R is a programming language that has a variety of uses in data science. R has so
 
 2. MechaCar suspension coil test results from multiple production lots. In this dataset, the weight capacity of multiple suspension coils were tested to determine if the manufacturing process is consistent across lots.
 
+## Analysis
+
+MechaCarChallenge.R is the script file which presents the scripts used to perform the analysis required for the assignment.
+MechaCarWriteUp.txt is the text file that presents the results and the conclusions drawn from them. 
